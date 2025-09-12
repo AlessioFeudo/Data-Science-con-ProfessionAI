@@ -8,5 +8,6 @@ Ogni script reca una spiegazione dettagliata riportante il suo scopo e l'analisi
 - Programmazione con Python: 'Software gestionale per negozio di prodotti vegani'
 - Machine Learning (Fondamenti): 'Modello di Machine Learning per il cross-selling di polizze assicurative'
 - Machine Learning (Modelli e algoritmi): 'Previsione dell'affidabilità creditizia per il rilascio della carta di credito'
-- Machine Learning (Tecniche avanzate):
-- Deep learning:
+- Machine Learning (Tecniche avanzate): in corso
+- Deep learning: in corso
+- Natural Language Processing: in corso
