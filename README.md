@@ -5,8 +5,6 @@ Tutte le librerie necessarie al funzionamento dei codici sono presentate all'ini
 oppure direttamente scaricate da PyPi (https://pypi.org/).
 Ogni script reca una spiegazione dettagliata riportante il suo scopo e l'analisi delle varie parti. Inoltre il codice è sempre adeguatamente commentato.
 
-NOTA: i progetti stanno subendo aggiustamenti per quanto riguarda le docstrings delle funzioni e l'utilizzo della lingua inglese. Non appena le modifiche saranno effettuate, i progetti saranno aggiornati.
-
 ## Elenco progetti
 - Programmazione con Python: 'Software gestionale per negozio di prodotti vegani'
 - Machine Learning (Fondamenti): 'Modello di Machine Learning per il cross-selling di polizze assicurative'
