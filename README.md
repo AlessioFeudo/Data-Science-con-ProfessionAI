@@ -12,6 +12,6 @@ Ogni script reca una spiegazione dettagliata riportante il suo scopo e l'analisi
 - Machine Learning (Tecniche avanzate): 'Face detection per fotocamere digitali'
 - Deep learning: 'Filtro anti-hater per social metwork'
 - Tableau: 'Analisi di una catena di supermercati'
+- SQL: 'Analisi dei clienti di una banca' 
 - Natural Language Processing: in corso
-- SQL: in corso
 - Big Data: in corso
