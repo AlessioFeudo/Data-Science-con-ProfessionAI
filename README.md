@@ -12,5 +12,5 @@ Ogni script reca una spiegazione dettagliata riportante il suo scopo e l'analisi
 - Deep learning: 'Filtro anti-hater per social metwork'
 - Tableau: 'Analisi di una catena di supermercati'
 - SQL: 'Analisi dei clienti di una banca' 
-- Natural Language Processing: in corso
+- Natural Language Processing: 'Modello di classificazione per mail spam'
 - Big Data: in corso
