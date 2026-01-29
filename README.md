@@ -13,4 +13,4 @@ Ogni script reca una spiegazione dettagliata riportante il suo scopo e l'analisi
 - Tableau: 'Analisi di una catena di supermercati'
 - SQL: 'Analisi dei clienti di una banca' 
 - Natural Language Processing: 'Modello di classificazione per mail spam'
-- Big Data: in corso
+- Big Data: 'Analisi di Wikipedia'
